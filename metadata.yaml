@@ -1,0 +1,31 @@
+_repo: Old-Love-Stories-Retold_3267
+creator:
+  author:
+    agent_name: Le Gallienne, Richard
+    aliases:
+    - LeGallienne, Richard
+    - Gallienne, Richard Le
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '246'
+    url: http://www.gutenberg.org/2009/agents/246
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Le_Gallienne
+description: ''
+gutenberg_issued: '2002-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'CT'
+- !lcsh 'Heine, Heinrich, 1797-1856'
+- !lcsh 'Authors, German -- 19th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Biography'
+tableOfContents: Heine and Mathilde
+title: Old Love Stories Retold
+url: http://www.gutenberg.org/ebooks/3267
